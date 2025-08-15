@@ -2,12 +2,10 @@
 
 ## Instrucciones:
 
-1. El Dataset debe ser guardado en Excel (xls, xlsx, csv). Empezar desde la celda A1 y evita los encabezados
-2. En la línea de comando de Python se solicitará "cargar el archivo". No importa la ruta, tú la puedes seleccionar manualmente
-3. El código hará lo suyo y te descargará un ZIP file donde contendrá las carpetas que requieres en el Dataset.
-4. Una vez teniendo el ZIP file, sólo extraes y  . . . **LISTO!!!**
-
-
+#1. El Dataset debe ser guardado en Excel (xls, xlsx, csv). Empezar desde la celda A1 y evita los encabezados
+#2. En la línea de comando de Python se solicitará "cargar el archivo". No importa la ruta, tú la puedes seleccionar manualmente
+#3. El código hará lo suyo y te descargará un ZIP file donde contendrá las carpetas que requieres en el Dataset.
+#4. Una vez teniendo el ZIP file, sólo extraes y  . . . **LISTO!!!**
 
 
 import pandas as pd
